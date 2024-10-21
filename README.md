@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinHub🤔&fontSize=70&color=0:6C0345,100:DC6B19&stroke=F7C566)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=AC337D&background=FFFFFF00&random=false&width=435&lines=Welcome+to+my+GitHub👋)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=AC337D&background=FFFFFF00&random=false&width=435&lines=Welcome+to+my+GitHub👋)](https://git.io/typing-svg)-->
 # My stats :sweat_drops:
 ![MING9UCCI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MING9UCCI&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdn6519)](https://solved.ac/alsdn6519/)
